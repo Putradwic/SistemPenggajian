@@ -18,3 +18,7 @@ Saat ini project berjalan dengan struktur minimalis, namun **direncanakan untuk 
 - Dashboard sederhana  
 - Koneksi database melalui `config.php`  
 - Struktur awal untuk pengembangan modul penggajian
+
+---
+## 💾 Struktur Database
+<img src="./gambar/database.png">
